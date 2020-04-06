@@ -1,0 +1,48 @@
+html{
+    height: 100%;
+  }
+  body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/background.png);
+    background-size: cover;
+   
+}
+.content{
+    float: left;
+    color: #4a4e47;
+    margin-top: 110px;
+    font-size: 16px;
+    margin-left: 20px;
+    font-weight: 500;
+}
+.bodypic{
+    margin-left: -110px;
+    margin-top: 100px;
+    opacity: 0.5;
+    float: left;
+}
+
+.content1{
+    margin-left: 60px;
+
+}
+.content2{
+    margin-left: 60px;
+
+}
+.content3{
+    margin-left: 60px;
+
+}
+.button{
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.all{
+    background-image: url(../img/white.png);
+    background-size: 400px 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

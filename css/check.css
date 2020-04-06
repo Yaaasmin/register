@@ -1,0 +1,108 @@
+html{
+    height: 100%;
+  }
+  body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title1>p{
+    color: #6a6263;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-family: STKaiti;
+}
+.table{
+    margin-left: 60px;
+}
+
+.table>img{
+    width: 25px;
+    height: 100%;
+    vertical-align: middle;
+}
+.text{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+}
+.text>p{
+    color: #6a6263;
+    font-size: 16px;
+}
+.text1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 42px;
+}
+.text1>p{
+    color: #6a6263;
+    font-size: 16px;
+}
+.table>form{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 12px;
+    opacity: 0.8;
+}
+input[type="checkbox" i] {
+    background-color: transparent;
+-webkit-appearance: checkbox;
+box-sizing: border-box;
+    border-radius: 100px;
+    margin: 3px 3px 3px 12px;
+    vertical-align: middle;
+}
+input[type=text] {
+    width: 200px;
+    padding: 5px 5px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid  #6a6263;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.select1 {
+    width: 200px;
+    padding: 5px 5px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid  #6a6263;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+.select2{
+    width: 168px;
+    padding: 5px 5px;
+    margin: 5px 0;
+    border: 1px solid  #6a6263;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: transparent;
+    float: left;
+    
+}
+input[type=text2] {
+    background-color: transparent;
+    width: 247px;
+    height: 100px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 1px solid #6a6263;
+    border-top: 1px solid #6a6263;
+}
+.selfIntro{
+    margin-left:103px ;
+}
+.button{
+    margin-left: 90px;
+    margin-bottom: 50px;
+}
